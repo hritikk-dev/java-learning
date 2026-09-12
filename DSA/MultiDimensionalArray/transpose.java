@@ -20,6 +20,7 @@ public class transpose {
         // arr[0] = arr[1];
         // arr[1] = temp;
         
+        // in place transpose krne ke liye hmme inner loop ko j=0 se nahi j=i se chalana hoga kyuki agar j=0 se chlayege to 2 barr swap ho jayega same cheez
 
 
         for(int i=0;i<ans.length;i++){
