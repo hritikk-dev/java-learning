@@ -31,5 +31,6 @@ public class sumOfElement {
 
         System.out.println("Sum of the element is "+sum);
         System.out.println("Maximum element is " + max);
+        sc.close();
     }
 }
