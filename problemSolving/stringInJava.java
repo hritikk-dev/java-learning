@@ -1,4 +1,4 @@
-package DSA;
+package problemSolving;
 
 public class stringInJava {
     public static void main(String[] args) {

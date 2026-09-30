@@ -1,6 +1,6 @@
 // Move all zeros to end
 
-package DSA;
+package problemSolving;
 
 public class moveAllZero {
 

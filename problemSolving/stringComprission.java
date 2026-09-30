@@ -1,4 +1,4 @@
-package DSA;
+package problemSolving;
 
 public class stringComprission {
     public static void strCompressed(String str) {

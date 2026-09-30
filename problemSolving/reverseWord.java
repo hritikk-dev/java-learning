@@ -1,5 +1,5 @@
 // reverse each word in string
-package DSA;
+package problemSolving;
 
 public class reverseWord {
     public static void reverseEachWord(String str) {

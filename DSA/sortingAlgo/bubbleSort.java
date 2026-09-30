@@ -1,6 +1,6 @@
 // Sort an array using bubble sort in reverse order
 
-package DSA;
+package DSA.sortingAlgo;
 
 public class bubbleSort {
 
